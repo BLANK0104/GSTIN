@@ -93,7 +93,7 @@ It can simply give the conclusion by seeing the outputs attached with code.
 
 ## Contributing
 
-@BLANK0104
+@BLANK0104 and @yashshah43
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature-branch`).
